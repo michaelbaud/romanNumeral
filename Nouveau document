@@ -1,0 +1,17 @@
+Ecrire une fonction pour convertir des nombres normaux en chiffres romains.
+
+Les Romains étaient un groupe intelligent. Ils ont conquis la plus grande partie de l'Europe et l'ont gouvernée pendant des centaines d'années. Ils ont inventé des routes en béton et droites et même des bikinis. Une chose qu'ils n'ont jamais découverte, c'est le nombre zéro. Cela rendait l'écriture et la datation des histoires extensives de leurs exploits un peu plus difficiles, mais le système de nombres qu'ils ont trouvé est encore utilisé aujourd'hui. Par exemple, la BBC utilise des chiffres romains pour dater ses programmes.
+
+Les Romains écrivaient des chiffres en utilisant des lettres - I, V, VI, X, L, C, D, M. (remarquez que ces lettres ont beaucoup de lignes droites et sont donc faciles à pirater dans les tablettes de pierre).
+
+Wikipédia dit: Les chiffres romains modernes... sont écrits en exprimant chaque chiffre séparément en commençant par le chiffre le plus à gauche et en sautant n'importe quel chiffre avec une valeur de zéro.
+
+Pour voir cela dans la pratique, prenons l'exemple de 1990.
+
+En chiffres romains 1990 est MCMXC:
+
+1000=M 900=CM 90=XC
+
+2008 est écrit comme MMVIII:
+
+2000=MM 8=VIII
